@@ -1,7 +1,5 @@
 
 
-locales = ["de", "en"]
-
 [[paths]]
-    reference = "/locales/de/translations.ftl"
-    l10n = "/locales/{locale}/translations.ftl"
+    reference = "locales/de/translations.ftl"
+    l10n = "locales/{locale}/translations.ftl"
