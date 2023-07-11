@@ -1,4 +1,27 @@
+basepath = "."
 
+locales = [
+
+  "bn",
+
+  "cs",
+
+  "cy",
+
+  "da",
+
+  "de",
+
+  "el",
+
+  "en-CA",
+
+  "en-GB",
+
+  "es-AR",
+
+  "es-ES",
+ ]
 
 [[paths]]
     reference = "locales/de/translations.ftl"
