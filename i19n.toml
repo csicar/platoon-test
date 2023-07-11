@@ -1,3 +1,7 @@
-basepath = "locales"
 
-locales = ["de"]
+
+locales = ["de", "en"]
+
+[[paths]]
+    reference = "/locales/de/translations.ftl"
+    l10n = "/locales/{locale}/translations.ftl"
